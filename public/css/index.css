@@ -1,0 +1,58 @@
+.container {
+  margin-top: 10%;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  box-sizing: border-box;
+}
+
+.row-buttons {
+  padding: 20px;
+}
+
+.container h1 {
+  justify-content: center;
+
+  padding-top: 20px;
+  color: #ffc107;
+}
+
+.row-input {
+  padding-top: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  margin: 10px;
+}
+
+form {
+  width: 56%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input {
+  text-align: center;
+}
+.form-control {
+  border-color: #ffc107;
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
+
+.socket img {
+  width: 250px;
+}
+.socket {
+  font-family: "Montserrat", sans-serif;
+  height: 30px;
+  text-align: center;
+  padding-top: 200px;
+}
+
+.socket h2 {
+  font-size: 1.7em;
+  font-weight: bold;
+}
